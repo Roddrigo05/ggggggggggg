@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-desktop:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-effects:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.simsilica:lemur-proto:1.13.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.simsilica:lemur:1.16.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Minie:9.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-core:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Heart:9.2.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.simsilica:sim-math:1.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-terrain:3.7.0-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-lwjgl3:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-jogg:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-plugins:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjglx:lwjgl3-awt:0.2.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-linux:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-linux-arm32:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-linux-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-macos:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-macos-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-windows:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-glfw:natives-windows-x86:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jawt:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-linux:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-linux-arm32:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-linux-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-macos:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-macos-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows-x86:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-linux:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-linux-arm32:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-linux-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-macos:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-macos-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-windows:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-openal:natives-windows-x86:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opencl:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-linux:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-linux-arm32:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-linux-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-macos:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-macos-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-windows:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl-opengl:natives-windows-x86:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-linux:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-linux-arm32:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-linux-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-macos:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-macos-arm64:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-windows:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl:lwjgl:natives-windows-x86:3.3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.google.guava:guava:19.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.slf4j:slf4j-api:1.7.32"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-Linux64:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-Linux_ARM32hf:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-Linux_ARM64:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-MacOSX64:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-MacOSX_ARM64:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:Libbulletjme-Windows64:SpRelease:22.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.github.stephengold:j-ogg-vorbis:1.0.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-plugins-json-gson:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jmonkeyengine:jme3-plugins-json:3.8.1-stable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.google.code.gson:gson:2.9.1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
